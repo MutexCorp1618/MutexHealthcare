@@ -1,0 +1,5 @@
+# Keep LF line endings in every checkout, so build/build.js fingerprints CSS and JS the same on Windows and elsewhere.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary

@@ -1,0 +1,66 @@
+# Mutex Healthcare Staffing
+
+> Healthcare staffing agency that places nurses, therapists, allied health, imaging, pharmacy, behavioral health and healthcare IT professionals with hospitals, clinics, schools and agencies in all 50 US states.
+
+Key facts:
+- What we do: travel contracts, local contracts, per diem shifts and permanent placement for clinicians; staffing, workforce programs and credentialing for healthcare organizations.
+- How we work: one opening, one right clinician, one recruiter accountable for the match. Every job posting shows the pay before you apply.
+- Specialties: Nursing, Allied Health, Therapy, Radiology & Imaging, Pharmacy, Behavioral Health, Federal & Schools, Healthcare IT.
+- Head office: 9355 John W. Elliott Dr #25, Frisco, TX 75033, United States.
+- Phone: +1 (469) 441-3937. Email: info@mutexcorp.com. Hours: Mon–Fri · 8am–6pm CT.
+- Response time: clinicians and facilities hear back within one business day.
+
+## For clinicians
+
+- [Find Healthcare Jobs](https://mutexhealthcare.vercel.app/jobs): Search travel, local, per diem and permanent healthcare jobs nationwide. Every Mutex Healthcare Staffing posting shows the pay before you apply.
+- [Find Healthcare Work](https://mutexhealthcare.vercel.app/job-seekers): Travel, local, per diem and permanent healthcare jobs with the pay on every posting. Explore the ways to work with Mutex Healthcare Staffing.
+- [Travel Nursing Jobs](https://mutexhealthcare.vercel.app/travel-nursing): Travel nursing contracts nationwide with the pay shown up front, licensing mapped out and one recruiter from first call to last shift.
+- [Allied Health & Therapy Jobs](https://mutexhealthcare.vercel.app/allied-therapy): Travel, local and permanent jobs for therapists, imaging technologists and allied health professionals in all 50 states.
+- [Per Diem & Local Contract Jobs](https://mutexhealthcare.vercel.app/per-diem): Per diem shifts and local healthcare contracts close to home, with the rate on every posting.
+- [Permanent Healthcare Jobs](https://mutexhealthcare.vercel.app/permanent-placement): Permanent, direct-hire healthcare roles. Interview preparation and offer support from a Mutex recruiter, at no cost to you.
+- [Federal & Schools Jobs](https://mutexhealthcare.vercel.app/federal-schools): School districts, corrections and public health programs need clinicians who want predictable schedules and lasting impact.
+- [Healthcare IT Jobs](https://mutexhealthcare.vercel.app/healthcare-it): Implementations, upgrades and optimization projects for analysts, informatics specialists and trainers.
+- [Healthcare Specialties](https://mutexhealthcare.vercel.app/specialties): Eight healthcare specialties staffed by Mutex: nursing, allied health, therapy, imaging, pharmacy, behavioral health, federal and schools, and healthcare IT.
+- [Nursing Jobs](https://mutexhealthcare.vercel.app/specialty-nursing): Med-surg to ICU, ER to L&D. Travel, local, per diem and permanent roles with the pay on every posting and a recruiter who knows your specialty.
+- [Allied Health Jobs](https://mutexhealthcare.vercel.app/specialty-allied-health): Respiratory, laboratory, surgical and clinic roles with facilities that know how much rides on your work.
+- [Therapy Jobs](https://mutexhealthcare.vercel.app/specialty-therapy): PT, OT and SLP assignments in outpatient clinics, rehab units, home health, skilled nursing and schools.
+- [Radiology & Imaging Jobs](https://mutexhealthcare.vercel.app/specialty-radiology): CT, MRI, ultrasound, X-ray and cath lab roles with the call schedule and pay terms spelled out.
+- [Pharmacy Jobs](https://mutexhealthcare.vercel.app/specialty-pharmacy): Hospital and health-system roles for pharmacists and technicians, built around the goals you set.
+- [Behavioral Health Jobs](https://mutexhealthcare.vercel.app/specialty-behavioral-health): Psychiatric nursing, social work and behavioral health technician roles, in settings described honestly before you apply.
+- [Federal & Schools Jobs](https://mutexhealthcare.vercel.app/specialty-federal-schools): School districts, corrections and public health programs: mission-driven settings with predictable schedules.
+- [Healthcare IT Jobs](https://mutexhealthcare.vercel.app/specialty-healthcare-it): EHR analyst, informatics and training roles on implementations, upgrades and optimization projects.
+- [Healthcare Jobs by State](https://mutexhealthcare.vercel.app/locations): Browse healthcare jobs in all 50 states. Pick a state to see open travel, local, per diem and permanent roles with pay shown.
+- [Pay & Benefits](https://mutexhealthcare.vercel.app/pay-benefits): How healthcare contract pay packages are built, what to ask before you sign, and the support you can expect from Mutex Healthcare Staffing.
+- [Licensure Guide](https://mutexhealthcare.vercel.app/licensure): A plain-language guide to healthcare licensure for contract work: compact licenses, single-state applications, timelines and the documents to keep ready.
+- [Refer a Friend](https://mutexhealthcare.vercel.app/referral): Refer a nurse, therapist or allied health professional to Mutex Healthcare Staffing and earn a bonus when they start their first assignment.
+- [Join the Talent Network](https://mutexhealthcare.vercel.app/apply): Join the Mutex Healthcare Staffing talent network. One short form, one recruiter call, and roles that match what you want.
+
+## For healthcare organizations
+
+- [Healthcare Staffing Services for Facilities](https://mutexhealthcare.vercel.app/employers): Credentialed nurses, therapists and allied health professionals for hospitals, clinics, schools and agencies. Request staff from Mutex Healthcare Staffing and hear back within one business day.
+- [Nursing Staffing](https://mutexhealthcare.vercel.app/staffing-nursing): Registered nurses, LPNs and nursing assistants for every unit, credentialed and ready for your review, usually within days.
+- [Allied Health Staffing](https://mutexhealthcare.vercel.app/staffing-allied-health): Respiratory therapists, laboratory scientists, surgical and sterile processing technicians, placed where a single vacancy slows everything down.
+- [Therapy Staffing](https://mutexhealthcare.vercel.app/staffing-therapy): Physical, occupational and speech therapists and assistants, for a single leave of absence or a fully managed rehab program.
+- [Radiology & Imaging Staffing](https://mutexhealthcare.vercel.app/staffing-radiology): Registered technologists and sonographers for vacancies, leave and new equipment, across every modality.
+- [Pharmacy Staffing](https://mutexhealthcare.vercel.app/staffing-pharmacy): Licensed pharmacists and registered technicians for inpatient, clinical and long-term care pharmacy.
+- [Behavioral Health Staffing](https://mutexhealthcare.vercel.app/staffing-behavioral-health): Psychiatric nurses, licensed social workers and behavioral health technicians for inpatient, community and residential programs.
+- [Federal & Schools Staffing](https://mutexhealthcare.vercel.app/staffing-federal-schools): School nurses, speech-language pathologists, psychologists and correctional health clinicians, cleared and credentialed for your setting.
+- [Healthcare IT Staffing](https://mutexhealthcare.vercel.app/staffing-healthcare-it): EHR analysts, clinical informatics specialists and trainers who keep clinical systems working for the people who use them.
+- [Workforce Solutions](https://mutexhealthcare.vercel.app/workforce-solutions): Programs for recurring workforce problems: contract therapy, credentialing and compliance, rural and critical access staffing, managed programs and surge response.
+- [Contract Therapy](https://mutexhealthcare.vercel.app/contract-therapy): Contract therapy from Mutex Healthcare Staffing: we staff, schedule and manage your rehab department so therapy becomes a service line you can count on.
+- [Credentialing & Compliance](https://mutexhealthcare.vercel.app/credentialing-compliance): Credential verification, expiry-date tracking and audit support for your own staff as well as ours, from Mutex Healthcare Staffing.
+- [Rural & Critical Access Program](https://mutexhealthcare.vercel.app/rural-critical-access): Staffing for rural and critical access hospitals: longer contracts, housing arranged up front and clinicians who choose rural practice.
+- [Mutex Match](https://mutexhealthcare.vercel.app/mutex-match): Mutex Match is our matching technology: software ranks openings against available clinicians, and a recruiter makes every final call.
+
+## Company and guides
+
+- [About Us](https://mutexhealthcare.vercel.app/about): Mutex Healthcare Staffing exists to close care gaps with people who care. Learn what the name means, what we value and how to reach us.
+- [Careers at Mutex Healthcare Staffing](https://mutexhealthcare.vercel.app/careers): Join the team behind the match. Mutex Healthcare Staffing is glad to meet recruiters, credentialing specialists and account managers who care about getting it right.
+- [Blog: Pay Guides, Licensing and Career Advice](https://mutexhealthcare.vercel.app/blog): Plain-language guides from Mutex Healthcare Staffing on licensing, pay packages and getting started with contract work.
+- [How the compact nursing license works for travel nurses](https://mutexhealthcare.vercel.app/blog-compact-nursing-license): One license, many states. Who qualifies, what it covers and what to do when the state you want is not part of it.
+- [How to read a travel pay package](https://mutexhealthcare.vercel.app/blog-reading-a-pay-package): Hourly rate, stipends, guaranteed hours and overtime: the four lines to check before you compare two offers.
+- [Your first travel assignment: a checklist](https://mutexhealthcare.vercel.app/blog-first-travel-assignment): What to settle before you accept, what to pack in your document folder and what to ask on day one.
+- [Frequently Asked Questions](https://mutexhealthcare.vercel.app/faqs): Answers about Mutex Healthcare Staffing: jobs, pay, credentialing, applying and requesting staff.
+- [Contact Us and Request Staff](https://mutexhealthcare.vercel.app/contact): Request staff or contact Mutex Healthcare Staffing in Frisco, Texas. Staffing requests and questions about a job or a contract are answered within one business day.
+- [Privacy Policy](https://mutexhealthcare.vercel.app/privacy): How Mutex Healthcare Staffing collects, uses and protects personal information.
+- [Photo Credits](https://mutexhealthcare.vercel.app/photo-credits): Credits and licences for the city photographs used on the Mutex Healthcare Staffing website.

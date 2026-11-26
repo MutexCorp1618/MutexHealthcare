@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 56" role="img" aria-label="Mutex">
+  <defs>
+    <linearGradient id="mx-blue" x1="0" y1="0" x2="0" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0f5fcb"/><stop offset=".5" stop-color="#164a9f"/><stop offset="1" stop-color="#183574"/></linearGradient>
+  </defs>
+  <g fill="url(#mx-blue)">
+    <path d="M0 0H19V18H17.5Z"/>
+    <path d="M19 37V49H50V56H0V55L18 37Z"/>
+    <path d="M25 .5H27L50.5 24 62.5 12H75V56H56V31.5L50 37.5 44 31.5V43H25Z"/>
+    <path d="M81 12H100V33.5Q100 37 104 37H112V12H131V43H90Q81 43 81 34Z"/>
+    <path d="M32 0H225L274 49V36L294 56H262L213 7H39Z"/>
+    <path d="M137 6H156V43H137Z"/>
+    <path d="M172 12H212V19H181V25H193V31H181V37H212V43H162V22Q162 12 172 12Z"/>
+    <path d="M249 12H261.5L230.5 43H218Z"/>
+    <path d="M237 0H292L274 18V7H244Z"/>
+    <path d="M81 49H249L256 56H81Z"/>
+  </g>
+</svg>

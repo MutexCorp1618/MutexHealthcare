@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mutex-site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "build/serve.js",
+        "4173"
+      ],
+      "port": 4173
+    }
+  ]
+}
