@@ -1,0 +1,5 @@
+# Files for editors, not visitors: keep them out of the Vercel deployment so they are not served publicly.
+# (api/ must stay: it holds the form function.)
+HANDOVER.md
+build/
+.claude/

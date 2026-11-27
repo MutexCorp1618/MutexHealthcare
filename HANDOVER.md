@@ -38,6 +38,7 @@ assets/og-image.png  Image shown when a link is shared on social media
 build/               Page generator and local preview server (Node.js, no dependencies)
 api/send-form.js     Vercel Function that emails form submissions through Microsoft 365
 vercel.json          Vercel settings: clean addresses, photo sizes, security and cache headers (generated)
+.vercelignore        Keeps HANDOVER.md, build/ and .claude/ out of the deployment, so they are not served publicly
 robots.txt, llms.txt, sitemap.xml   Files for search and AI crawlers (generated)
 .claude/launch.json  Preview server setup for Claude Code
 ```
@@ -104,7 +105,7 @@ There are six forms:
 | `careers` | `careers.html` (jobs at Mutex itself) | name, email, area, link, message |
 | `staff-request` | Request-staff form on the Contact page (`contact.html#request`, script `js/request.js`) | roles, headcount, facility, state, timing, cover, contact details, note |
 
-**Forms are emailed through the company's Microsoft 365 mailbox by our own Vercel Function**, `api/send-form.js`. There is no third-party form service and no npm package. The browser sends each submission as JSON (form name, page, fields, and a résumé as base64) to `/api/send-form`. The function checks it, drops spam (the hidden `_gotcha` field), and sends one email per submission with Microsoft Graph, "as" the company mailbox. The email's subject names the form and the person, Reply goes to the person who filled in the form, and a résumé (PDF or Word, up to 3 MB) is attached. Only this site's own pages can use the function.
+**Forms are emailed through the company's Microsoft 365 mailbox by our own Vercel Function**, `api/send-form.js`. There is no third-party form service and no npm package. The browser sends each submission as JSON (form name, page, fields, and a résumé as base64) to `/api/send-form`. The function checks it, drops spam (the hidden `_gotcha` field), and sends one email per submission with Microsoft Graph, "as" the company mailbox. The email's subject names the form and the person, Reply goes to the person who filled in the form, and a résumé (PDF or Word, up to 3 MB) is attached. Only this site's own pages can use the function: requests without the site's own `Origin` header are refused, each visitor address may send at most 5 submissions per 10 minutes (answered with 429 after that), and an attachment must really be a PDF or Word file (its first bytes are checked, not only its name). The per-visitor limit lives in the function's memory, so it is best effort; for a hard limit add a rate-limit rule in Vercel (step 8 below).
 
 Until the settings below are added in Vercel, the function answers "not configured" and visitors see the phone number and email instead of a false "sent". So the site is safe to deploy before the setup is finished.
 
@@ -122,6 +123,7 @@ Until the settings below are added in Vercel, the function answers "not configur
    - `MAIL_TO`: who receives submissions, comma-separated (optional; defaults to `MAIL_FROM`)
 6. Vercel → Deployments → the latest one → **Redeploy**, so the function sees the new settings.
 7. Send a test from each of the six forms on the live site. If an email does not arrive, Vercel → the project → Logs shows the function's error (for example a missing permission).
+8. Recommended: Vercel → the project → Firewall → add a custom rule with a rate limit for requests whose path is `/api/send-form` (for example 10 requests per minute per IP, action Deny). This holds across all function instances, unlike the limit inside the function.
 
 The client secret expires (24 months in step 3). Put a reminder in the calendar: create a new secret, update `M365_CLIENT_SECRET` in Vercel, redeploy.
 
